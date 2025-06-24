@@ -18,8 +18,8 @@ that qualify to post Iniitial margin using the ISDA Method.  we will require the
 - as required, it only too few minutes.  Obviously, We dont rely on this fully, so we made sure, we read the pdf line by line and cross check to ensure, all is 100% correct.  
   
   
-      INCORRECT or any MIsspecication can lead to impact on your SIMM calculaton - 
-      there is always a risk that something is mistyped which can happen both via deepseek or by manual entry.  
+  INCORRECT or any MIsspecication can lead to impact on your SIMM calculaton - 
+  there is always a risk that something is mistyped which can happen both via deepseek or by manual entry.  
 
  - the resposity we have all the files we need:  
 
