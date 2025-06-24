@@ -1,7 +1,7 @@
-# ISDA SIMM v2.7 Parameters updated for this calculation by Abukar Ali. Date: 2025-06-23
-# The parameters below can be found at https://www.isda.org/a/2IOgE/ISDA_SIMM_v2.7_PUBLIC.pdf
+### ISDA SIMM v2.7 Parameters updated for this calculation by Abukar Ali. Date: 2025-06-23
+### The parameters below can be found at https://www.isda.org/a/2IOgE/ISDA_SIMM_v2.7_PUBLIC.pdf
 
-# ISDA SIMM v2.7 Parameters updated. Date: 2024-12-07
+### ISDA SIMM v2.7 Parameters updated. Date: 2024-12-07
 
 
 
