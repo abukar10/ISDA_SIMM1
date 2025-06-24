@@ -11,6 +11,7 @@ that qualify to post Iniitial margin using the ISDA Method.  we will require the
 - i have then used the older file as a guide and asked Deepseek to populate the file using the 2024 updated data - the result was amazing. 
 
 **** DeepSeek Helped Reduce manual input time to only 5 minutes. 
+
 *** (but initially, sometime is required for prompting and QA checks)
 
 - ChatGPT was full of errors and didnt even follow the format of the required file, but with the correct prompt, Deepseek was spot on and 
