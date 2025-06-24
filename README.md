@@ -8,10 +8,17 @@ that qualify to post Iniitial margin using the ISDA Method.  we will require the
 - Next, we will need to read the latest or most recent risk weights and parameters defined by ISDA for SIMM calculations. 
 - in this repository, we have a file called v2_7.py - a python input file that has contains all the ISDA Defined risk weights, correlation input data, etc  
 - this would take a long time to manually input these data, we have used the 2023 file which contained numbering for the relant section of the data from the ISDA PDF
-- i have then used the older file as a guide and asked Deepseek to populate the file using the 2024 updated data - the result was amazing.  
+- i have then used the older file as a guide and asked Deepseek to populate the file using the 2024 updated data - the result was amazing. 
+
+**** DeepSeek Helped Reduce manual input time to only 5 minutes. 
+*** (but initially, sometime is required for prompting and QA checks)
+
 - ChatGPT was full of errors and didnt even follow the format of the required file, but with the correct prompt, Deepseek was spot on and 
 - as required, it only too few minutes.  Obviously, We dont rely on this fully, so we made sure, we read the pdf line by line and cross check to ensure, all is 100% correct.  
--  there is always a risk that something is mistyped which can happen both via deepseek or by manual entry.  
+  
+  
+      INCORRECT or any MIsspecication can lead to impact on your SIMM calculaton - 
+      there is always a risk that something is mistyped which can happen both via deepseek or by manual entry.  
 
  - the resposity we have all the files we need:  
 
